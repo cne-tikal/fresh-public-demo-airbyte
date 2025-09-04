@@ -1,2 +1,1 @@
-# fresh-public-demo-airbyte
-Data platform airbyte for fresh-public-demo (created from tikalk/cne-airbyte-template)
+successfully downloaded text file (SHA: a05093ee2d5d8bea76b328af5d0b42231261dd7e)
